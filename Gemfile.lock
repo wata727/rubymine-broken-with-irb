@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    io-console (0.5.11)
+    irb (1.4.3)
+      reline (>= 0.3.0)
+    reline (0.3.1)
+      io-console (~> 0.5)
+
+PLATFORMS
+  ruby
+  x86_64-darwin-19
+
+DEPENDENCIES
+  irb (= 1.4.3)
+
+BUNDLED WITH
+   2.2.33
